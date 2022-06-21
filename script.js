@@ -1,5 +1,3 @@
-console.log('working');
-
 window.addEventListener('load', function () {
-    console.log('loaded');
+    console.log('loaded v2');
 })
