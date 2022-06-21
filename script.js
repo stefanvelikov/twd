@@ -1,7 +1,5 @@
-<script>
+console.log('working');
 
-
-
-
-    
-</script>
+window.addEventListener('load', function () {
+    console.log('loaded');
+})
